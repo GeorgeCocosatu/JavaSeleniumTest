@@ -18,6 +18,11 @@ In the JavaSeleniu.class it is required to change path to the "chromedriver.exe"
         
 To run the test you should only hit Run'JavaSelenium.main()' and the output should look like this [3]. If you encounter any errors or the output does not show as mentioned please run it again a few times.
 
+One thing I would suggest the developper to change is to add “id” tags to the “div” so it can be found easier with findElement(By.id()) instead of findElement(By.xpath()).
+
+Additionally he could add an “Search” button to the search bar. And the search box should clear automatically after a search is made.
+
+
 [1]: https://www.selenium.dev/downloads/
 
 [2]: https://chromedriver.chromium.org/downloads
