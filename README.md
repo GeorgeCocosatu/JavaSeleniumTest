@@ -4,7 +4,7 @@ Create at least the following tests:
 1. Open the application and make sure a list of movie tiles is displayed. 
 2. Open the movie The Shawshank Redemption and make sure the release date is correctly displayed. 
 3. Search for Star Trek and make sure that the movie Star Trek: First Contact is displayed in the search results and the movie The Shawshank Redemption is no longer visible. 
-4. 4. Take any movie you like and make sure the Released on, popularity, vote average and vote count fields have the expected values. 
+4. Take any movie you like and make sure the Released on, popularity, vote average and vote count fields have the expected values. 
 5. Did you encounter any bugs in the application? If so, add a test that shows that bug. 
 
 I have used Intellij to write the code.
